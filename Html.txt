@@ -1,0 +1,82 @@
+<html>
+    <head>
+        <title>OUR SERVICES</title>
+        <link rel="aboutus" href="css/animate.CSS">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+    </head>
+
+
+ <body>
+<div id="our-services"><center><h2>OUR SERVICES</h2><br/><br/><h4>"Work with devotion will give you<br/> 100% satisfaction"</h4></center></div>
+
+<div  > 
+
+    <article id="zoom-image">
+        
+        <center><img width="50%" src="image/web.png.jpg "></center><br/><h3 align=center>WEB DEVELOPMENT</h3>Lorem Ipsum is simply 
+        dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industry's standard dummy 
+        text ever since the 1500s, when an unknown printer took 
+        a galley of type and scrambled it to make a type specimen
+        book. It ha survived not only five centuries,the lea into 
+        electronic typesetting,</article>
+      <article id="zoom-image1">
+        <center><img width="50%" src="image/graphics.jpg"></center><br/><h3 align=center>GRAPHIC DESIGNING</h3>Lorem Ipsum is simply 
+        dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industry's standard dummy 
+        text ever since the 1500s, when an unknown printer took 
+        a galley of type and scrambled it to make a type specimen
+        book. It ha survived not only five centuries,the lea into 
+        electronic typesetting <a href="graphic.html">DESIGN</a>,</article>
+        <article id="zoom-image2">
+            <center><img width="84%" src="image/data entry.jpg"></center><br/><h3 align=center>DATA ENTRY</h3>Lorem Ipsum is simply 
+            dummy text of the printing and typesetting industry.
+            Lorem Ipsum has been the industry's standard dummy 
+            text ever since the 1500s, when an unknown printer took 
+            a galley of type and scrambled it to make a type specimen
+            book. It ha survived not only five centuries,the lea into 
+            electronic typesetting,
+    
+        </article></div>
+
+<div id="contact_here" >
+    <center>
+    <h5  >CONTACT US </h5></center></br></br></br></br></br>
+<h6>
+    "We always here to  work with you "
+</h6>
+
+<a href="https://www.facebook.com/educonn.org/">
+<img style="margin-bottom: -10%;margin-left: 650%;" width="100"  src="./image/facebook.png"></a>
+<a href="https://www.facebook.com/educonn.org/">
+<img style="margin-bottom: -10%;margin-left: 700%;" width="100"  src="./image/twitter.png"></a>
+<a href="https://www.facebook.com/educonn.org/">
+<img style="margin-bottom: -10%;margin-left: 1100%;" width="50" src="./image/instagram.png"></a>
+
+<a href="https://www.google.com/maps/place/NED+University+of+Engineering+and+Technology/@24.9290421,67.1123472,17z/data=!3m1!4b1!4m5!3m4!1s0x3eb338b8d4494c91:0xf864ed97b4a8ec0e!8m2!3d24.9290421!4d67.1145359">
+<img style="width: 11%;
+margin-bottom: 40%;margin-left: 30%;"
+src="./image/location.png"></a><p onmouseover="ColourChange(this)" onmouseout="ColourWhite(this)" style="-webkit-text-fill-color: #ffffff;
+
+margin-left: -23%;
+margin-bottom: 5%;">Nipa chowrangi,Karachi</p>
+
+
+<img style="width: 2.5%;margin-left: -7%;"
+src="./image/email.jpg"><p onmouseover="ColourChange()" onmouseout="ColourWhite()" style="-webkit-text-fill-color: #ffffff;
+
+margin-left: -9%;
+margin-bottom: -5%;">&nbsp;shimmiehtesham229@gmail.com</p>
+<img style="width: 2.5%;margin-left: -10%;
+margin-bottom: -12%;"
+src="./image/phone.png"><p onmouseover="ColourChange()" onmouseout="ColourWhite()" style="-webkit-text-fill-color: #ffffff;
+
+margin-left: -5%;
+margin-bottom: -19%;">0329739733903</p>
+
+</div>
+</div>
+
