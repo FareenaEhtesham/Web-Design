@@ -1,0 +1,8 @@
+/* we add custom css here for our project */
+
+/* whenever we update this file to write custom css we should run command
+npm run build[package.json] to update style.css in public folder */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

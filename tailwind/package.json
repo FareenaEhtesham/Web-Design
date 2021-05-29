@@ -1,0 +1,14 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "learn tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss build src/style.css -o public/style.css"
+  },
+  "author": "Fareena Ehtesham",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.1.2"
+  }
+}
